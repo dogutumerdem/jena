@@ -19,7 +19,7 @@
 package org.apache.jena.riot.web;
 
 import static java.lang.String.format ;
-import static org.apache.jena.ext.com.google.common.base.MoreObjects.firstNonNull;
+import static com.google.common.base.MoreObjects.firstNonNull;
 
 import java.io.IOException ;
 import java.io.InputStream ;

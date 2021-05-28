@@ -28,8 +28,8 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 
 import org.apache.jena.JenaRuntime;
-import org.apache.jena.ext.com.google.common.cache.Cache;
-import org.apache.jena.ext.com.google.common.cache.CacheBuilder;
+import com.google.common.cache.Cache;
+import com.google.common.cache.CacheBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -1,0 +1,46 @@
+
+\
+java:S1192§"FDefine a constant instead of duplicating this literal "file:" 4 times.(Æ¾Ãq
+p
+java:S1192ç"YDefine a constant instead of duplicating this literal "Failed to start server: " 3 times.(¥›Á“
+K
+java:S1066Ø"/Merge this if statement with the enclosing one.(©áÐóÿÿÿÿÿ
+V	java:S110@"<This class has 7 parents which is greater than 5 authorized.(µ­ó¹ûÿÿÿÿ
+U
+java:S1155ò">Use isEmpty() to check whether the collection is empty or not.(ûËã¯
+Z
+java:S1155÷">Use isEmpty() to check whether the collection is empty or not.(Ú‡“þÿÿÿÿ
+U
+java:S1155û">Use isEmpty() to check whether the collection is empty or not.(ûËã¯
+Q
+java:S1141â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+s
+java:S1488Ö"\Immediately return this expression instead of assigning it to the temporary variable "port".(£•ÈÇ
+l
+java:S1450t"VRemove the "useTDB2" field and declare it as a local variable in the relevant methods.(¾Õÿœ
+V	java:S125p"<This block of commented-out lines of code should be removed.(à¥ö½ÿÿÿÿÿ
+J
+java:S6212x"/Declare this local variable with "var" instead.(µŠßçøÿÿÿÿ
+R	java:S125–"<This block of commented-out lines of code should be removed.(õúÙƒ
+R	java:S125»"<This block of commented-out lines of code should be removed.(ñÃ¬
+W	java:S125¾"<This block of commented-out lines of code should be removed.(“É¢üÿÿÿÿ
+i
+java:S3776Ð"RRefactor this method to reduce its Cognitive Complexity from 95 to the 15 allowed.(í›µÔ
+K
+java:S6212Ø"/Declare this local variable with "var" instead.(ãíÔÿÿÿÿÿ
+F
+java:S6212ª"/Declare this local variable with "var" instead.(•ª²Ü
+F
+java:S6212Ê"/Declare this local variable with "var" instead.(øšÓÍ
+E
+java:S6212é"/Declare this local variable with "var" instead.(ÿ‰æM
+R	java:S125˜"<This block of commented-out lines of code should be removed.(ÇèÅÓ
+R	java:S125Ê"<This block of commented-out lines of code should be removed.(ÎëÓ™
+F
+java:S6212Ö"/Declare this local variable with "var" instead.(£•ÈÇ
+]
+java:S3457é"AFormat specifiers should be used instead of string concatenation.(ñã¿Úûÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(íÏ§õøÿÿÿÿ
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(•¬ªÐ
+i
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(£ŠÅß

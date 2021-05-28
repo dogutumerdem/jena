@@ -156,6 +156,11 @@ abstract public class AbsIRIImpl extends  IRI implements
             new Iterator<Violation>() {
                private Iterator<Violation> underlying = foundExceptions.iterator();
 
+                @Override
+                public void remove() {
+//                    Iterator.super.remove();
+                }
+
                 private Violation next;
                 @Override
                 public boolean hasNext() {

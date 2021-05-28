@@ -18,6 +18,8 @@
 
 package org.apache.jena.atlas.lib;
 
+import com.google.common.collect.ImmutableSet;
+
 import static java.util.stream.Collector.Characteristics.CONCURRENT;
 import static java.util.stream.Collector.Characteristics.IDENTITY_FINISH;
 import static java.util.stream.Collector.Characteristics.UNORDERED;
@@ -26,7 +28,7 @@ import java.util.Set;
 import java.util.function.Function;
 import java.util.stream.Collector;
 
-import org.apache.jena.ext.com.google.common.collect.ImmutableSet;
+//import org.apache.jena.ext.com.google.common.collect.ImmutableSet;
 
 public interface IdentityFinishCollector<T, A> extends Collector<T, A, A> {
 

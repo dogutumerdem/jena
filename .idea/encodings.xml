@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/apache-jena-osgi/jena-osgi-features/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apache-jena-osgi/jena-osgi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apache-jena-osgi/jena-osgi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-arq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-arq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-cmds/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-cmds/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-core/etc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-dboe-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-dboe-index-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-dboe-index/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-dboe-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-dboe-trans-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-dboe-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-tdb2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-db/jena-tdb2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-extras/jena-commonsrdf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-extras/jena-commonsrdf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-extras/jena-querybuilder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-access/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-access/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-fulljar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-geosparql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-geosparql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-geosparql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-geosparql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-iri/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-mem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-mem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-remote/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-remote/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-tdb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-tdb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-permissions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-rdfconnection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-shacl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-shacl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-tdb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-tdb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-text/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jena-text/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

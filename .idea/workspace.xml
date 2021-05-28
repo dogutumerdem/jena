@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fc569f2-2d67-4eda-97a9-aa170b4a5ae7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jena-arq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/riot/lang/BlankNodeAllocatorHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/riot/lang/BlankNodeAllocatorHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/riot/system/FactoryRDFCaching.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/riot/system/FactoryRDFCaching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/riot/web/HttpOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/riot/web/HttpOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/engine/iterator/QueryIterGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/engine/iterator/QueryIterGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/engine/join/HashProbeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/engine/join/HashProbeTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/modify/TemplateLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/modify/TemplateLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/util/DyadicDatasetGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/main/java/org/apache/jena/sparql/util/DyadicDatasetGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/query/TestQueryCloningCornerCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/query/TestQueryCloningCornerCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/AbstractTestQuadTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/AbstractTestQuadTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/AbstractTestTupleTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/AbstractTestTupleTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/TestHexTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/TestHexTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/TestQuadTableForms.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/TestQuadTableForms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/TestTripleTableForms.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-arq/src/test/java/org/apache/jena/sparql/core/mem/TestTripleTableForms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-base/src/main/java/org/apache/jena/atlas/lib/IdentityFinishCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-base/src/main/java/org/apache/jena/atlas/lib/IdentityFinishCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-base/src/main/java/org/apache/jena/atlas/lib/cache/CacheGuava.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-base/src/main/java/org/apache/jena/atlas/lib/cache/CacheGuava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-base/src/main/java/org/apache/jena/atlas/lib/cache/CacheInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-base/src/main/java/org/apache/jena/atlas/lib/cache/CacheInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-base/src/test/java/org/apache/jena/atlas/iterator/TestIteratorPeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-base/src/test/java/org/apache/jena/atlas/iterator/TestIteratorPeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-base/src/test/java/org/apache/jena/atlas/lib/persistent/TestPSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-base/src/test/java/org/apache/jena/atlas/lib/persistent/TestPSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-core/src/main/java/org/apache/jena/reasoner/rulesys/impl/LPBRuleEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-core/src/main/java/org/apache/jena/reasoner/rulesys/impl/LPBRuleEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-core/src/test/java/org/apache/jena/util/TestModelCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-core/src/test/java/org/apache/jena/util/TestModelCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/apache-jena-fuseki/apache-jena-fuseki.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-access/jena-fuseki-access.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-core/jena-fuseki-core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-docker/jena-fuseki-docker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-fulljar/jena-fuseki-fulljar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-geosparql/jena-fuseki-geosparql.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-main/jena-fuseki-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-server/jena-fuseki-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-war/jena-fuseki-war.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-webapp/jena-fuseki-webapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-fuseki2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-iri/src/main/java/org/apache/jena/iri/impl/AbsIRIImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-iri/src/main/java/org/apache/jena/iri/impl/AbsIRIImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-rdfconnection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-rdfconnection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-shacl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-shacl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/engine/constraint/ConstraintComponentSPARQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/engine/constraint/ConstraintComponentSPARQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/engine/constraint/SparqlValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/engine/constraint/SparqlValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/parser/ConstraintComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/parser/ConstraintComponents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/parser/Parameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-shacl/src/main/java/org/apache/jena/shacl/parser/Parameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-shaded-guava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-shaded-guava/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-tdb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-tdb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jena-tdb/src/main/java/org/apache/jena/tdb/base/block/BlockMgrTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/jena-tdb/src/main/java/org/apache/jena/tdb/base/block/BlockMgrTracker.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t9fLZDIEebWOpbTjPQbGEeWiks" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="geo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.apache.jena.fuseki.geosparql.Main" />
+      <module name="jena-fuseki-geosparql" />
+      <option name="PROGRAM_PARAMETERS" value="-t &quot;D:\Programs\JENA\apache-jena-4.0.0\ds&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc569f2-2d67-4eda-97a9-aa170b4a5ae7" name="Default Changelist" comment="" />
+      <created>1622186175058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622186175058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

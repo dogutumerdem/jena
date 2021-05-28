@@ -18,7 +18,9 @@
 
 package org.apache.jena.atlas.lib.cache;
 
-import org.apache.jena.ext.com.google.common.cache.CacheStats ;
+//import org.apache.jena.ext.com.google.common.cache.CacheStats ;
+
+import com.google.common.cache.CacheStats;
 
 /** Simplified version of Guava's CacheStats (and abstracting away from Guava cache implementation) */
 public class CacheInfo {

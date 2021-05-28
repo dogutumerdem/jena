@@ -42,10 +42,16 @@
       <artifactId>slf4j-api</artifactId>
     </dependency>
 
+<!--    <dependency>-->
+<!--      <groupId>org.apache.jena</groupId>-->
+<!--      <artifactId>jena-shaded-guava</artifactId>-->
+<!--      <version>4.1.0-SNAPSHOT</version>-->
+<!--    </dependency>-->
+
     <dependency>
-      <groupId>org.apache.jena</groupId>
-      <artifactId>jena-shaded-guava</artifactId>
-      <version>4.1.0-SNAPSHOT</version>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>30.1.1-jre</version>
     </dependency>
     
     <!-- For compiling the log4j2 helper code. -->
@@ -117,6 +123,10 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
       </plugin>
 
       <plugin>

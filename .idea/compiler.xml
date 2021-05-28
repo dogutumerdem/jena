@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jena-querybuilder" />
+        <module name="jena-shacl" />
+        <module name="jena-dboe-storage" />
+        <module name="jena-fuseki-fulljar" />
+        <module name="jena-osgi" />
+        <module name="jena-jdbc-driver-remote" />
+        <module name="jena-dboe-index-test" />
+        <module name="jena-permissions" />
+        <module name="jena-jdbc-driver-tdb" />
+        <module name="jena-dboe-index" />
+        <module name="jena-fuseki-main" />
+        <module name="jena-fuseki-geosparql" />
+        <module name="jena-shaded-guava" />
+        <module name="jena-core" />
+        <module name="jena-base" />
+        <module name="jena-commonsrdf" />
+        <module name="jena-dboe-transaction" />
+        <module name="jena-dboe-trans-data" />
+        <module name="jena-jdbc-core" />
+        <module name="jena-tdb" />
+        <module name="jena-rdfconnection" />
+        <module name="jena-osgi-features" />
+        <module name="jena-fuseki-webapp" />
+        <module name="jena-geosparql" />
+        <module name="jena-tdb2" />
+        <module name="jena-cmds" />
+        <module name="jena-iri" />
+        <module name="jena-jdbc-driver-mem" />
+        <module name="jena-arq" />
+        <module name="jena-integration-tests" />
+        <module name="jena-fuseki-server" />
+        <module name="jena-fuseki-core" />
+        <module name="jena-fuseki-access" />
+        <module name="jena-dboe-base" />
+        <module name="jena-fuseki-war" />
+        <module name="jena-text" />
+        <module name="jena-jdbc-driver-bundle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-jena" target="1.7" />
+      <module name="apache-jena-fuseki" target="1.7" />
+      <module name="apache-jena-libs" target="1.7" />
+      <module name="apache-jena-osgi" target="1.7" />
+      <module name="jena" target="1.7" />
+      <module name="jena-arq" target="11" />
+      <module name="jena-base" target="1.8" />
+      <module name="jena-cmds" target="1.7" />
+      <module name="jena-commonsrdf" target="1.7" />
+      <module name="jena-core" target="11" />
+      <module name="jena-db" target="1.7" />
+      <module name="jena-dboe-base" target="1.7" />
+      <module name="jena-dboe-index" target="1.7" />
+      <module name="jena-dboe-index-test" target="1.7" />
+      <module name="jena-dboe-storage" target="1.7" />
+      <module name="jena-dboe-trans-data" target="1.7" />
+      <module name="jena-dboe-transaction" target="1.7" />
+      <module name="jena-extras" target="1.7" />
+      <module name="jena-fuseki" target="1.7" />
+      <module name="jena-fuseki-access" target="11" />
+      <module name="jena-fuseki-core" target="11" />
+      <module name="jena-fuseki-docker" target="1.7" />
+      <module name="jena-fuseki-fulljar" target="1.7" />
+      <module name="jena-fuseki-geosparql" target="11" />
+      <module name="jena-fuseki-main" target="11" />
+      <module name="jena-fuseki-server" target="1.7" />
+      <module name="jena-fuseki-war" target="1.7" />
+      <module name="jena-fuseki-webapp" target="11" />
+      <module name="jena-geosparql" target="1.7" />
+      <module name="jena-integration-tests" target="1.7" />
+      <module name="jena-iri" target="1.7" />
+      <module name="jena-jdbc" target="1.7" />
+      <module name="jena-jdbc-core" target="1.7" />
+      <module name="jena-jdbc-driver-bundle" target="1.7" />
+      <module name="jena-jdbc-driver-mem" target="1.7" />
+      <module name="jena-jdbc-driver-remote" target="1.7" />
+      <module name="jena-jdbc-driver-tdb" target="1.7" />
+      <module name="jena-osgi" target="1.7" />
+      <module name="jena-osgi-features" target="1.7" />
+      <module name="jena-permissions" target="1.7" />
+      <module name="jena-querybuilder" target="1.7" />
+      <module name="jena-rdfconnection" target="11" />
+      <module name="jena-shacl" target="11" />
+      <module name="jena-shaded-guava" target="1.7" />
+      <module name="jena-tdb" target="11" />
+      <module name="jena-tdb2" target="1.7" />
+      <module name="jena-text" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

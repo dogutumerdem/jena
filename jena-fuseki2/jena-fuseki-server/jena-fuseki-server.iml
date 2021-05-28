@@ -30,17 +30,23 @@
     <orderEntry type="library" name="Maven: io.prometheus:simpleclient:0.9.0" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:9.4.40.v20210413" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.4.40.v20210413" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-text:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-shacl:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-arq:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-core:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-base:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-shaded-guava:4.1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="jena-text" />
+    <orderEntry type="module" module-name="jena-shacl" />
+    <orderEntry type="module" module-name="jena-arq" />
+    <orderEntry type="module" module-name="jena-core" />
+    <orderEntry type="module" module-name="jena-base" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:30.1.1-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:3.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.5.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-csv:1.8" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.15" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.20" level="project" />
     <orderEntry type="library" name="Maven: com.github.andrewoma.dexx:collection:0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-iri:4.1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="jena-iri" />
     <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.13" level="project" />
@@ -53,14 +59,14 @@
     <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.3.2" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-tdb:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-tdb2:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-dboe-storage:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-dboe-trans-data:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-dboe-transaction:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-dboe-base:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-dboe-index:4.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-rdfconnection:4.1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="jena-tdb" />
+    <orderEntry type="module" module-name="jena-tdb2" />
+    <orderEntry type="module" module-name="jena-dboe-storage" />
+    <orderEntry type="module" module-name="jena-dboe-trans-data" />
+    <orderEntry type="module" module-name="jena-dboe-transaction" />
+    <orderEntry type="module" module-name="jena-dboe-base" />
+    <orderEntry type="module" module-name="jena-dboe-index" />
+    <orderEntry type="module" module-name="jena-rdfconnection" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:8.8.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-analyzers-common:8.8.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-queryparser:8.8.0" level="project" />
@@ -70,7 +76,7 @@
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-memory:8.8.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-backward-codecs:8.8.0" level="project" />
     <orderEntry type="module" module-name="jena-fuseki-access" />
-    <orderEntry type="library" name="Maven: org.apache.jena:jena-cmds:4.1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="jena-cmds" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.14.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.14.1" level="project" />

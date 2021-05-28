@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-jena/apache-jena.iml" filepath="$PROJECT_DIR$/apache-jena/apache-jena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/apache-jena-fuseki/apache-jena-fuseki.iml" filepath="$PROJECT_DIR$/jena-fuseki2/apache-jena-fuseki/apache-jena-fuseki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-jena-libs/apache-jena-libs.iml" filepath="$PROJECT_DIR$/apache-jena-libs/apache-jena-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-jena-osgi/apache-jena-osgi.iml" filepath="$PROJECT_DIR$/apache-jena-osgi/apache-jena-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena.iml" filepath="$PROJECT_DIR$/jena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-arq/jena-arq.iml" filepath="$PROJECT_DIR$/jena-arq/jena-arq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-base/jena-base.iml" filepath="$PROJECT_DIR$/jena-base/jena-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-cmds/jena-cmds.iml" filepath="$PROJECT_DIR$/jena-cmds/jena-cmds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-extras/jena-commonsrdf/jena-commonsrdf.iml" filepath="$PROJECT_DIR$/jena-extras/jena-commonsrdf/jena-commonsrdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-core/jena-core.iml" filepath="$PROJECT_DIR$/jena-core/jena-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-db.iml" filepath="$PROJECT_DIR$/jena-db/jena-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-dboe-base/jena-dboe-base.iml" filepath="$PROJECT_DIR$/jena-db/jena-dboe-base/jena-dboe-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-dboe-index/jena-dboe-index.iml" filepath="$PROJECT_DIR$/jena-db/jena-dboe-index/jena-dboe-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-dboe-index-test/jena-dboe-index-test.iml" filepath="$PROJECT_DIR$/jena-db/jena-dboe-index-test/jena-dboe-index-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-dboe-storage/jena-dboe-storage.iml" filepath="$PROJECT_DIR$/jena-db/jena-dboe-storage/jena-dboe-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-dboe-trans-data/jena-dboe-trans-data.iml" filepath="$PROJECT_DIR$/jena-db/jena-dboe-trans-data/jena-dboe-trans-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-dboe-transaction/jena-dboe-transaction.iml" filepath="$PROJECT_DIR$/jena-db/jena-dboe-transaction/jena-dboe-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-extras/jena-extras.iml" filepath="$PROJECT_DIR$/jena-extras/jena-extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-access/jena-fuseki-access.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-access/jena-fuseki-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-core/jena-fuseki-core.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-core/jena-fuseki-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-docker/jena-fuseki-docker.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-docker/jena-fuseki-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-fulljar/jena-fuseki-fulljar.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-fulljar/jena-fuseki-fulljar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-geosparql/jena-fuseki-geosparql.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-geosparql/jena-fuseki-geosparql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-main/jena-fuseki-main.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-main/jena-fuseki-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-server/jena-fuseki-server.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-server/jena-fuseki-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-war/jena-fuseki-war.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-war/jena-fuseki-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki2/jena-fuseki-webapp/jena-fuseki-webapp.iml" filepath="$PROJECT_DIR$/jena-fuseki2/jena-fuseki-webapp/jena-fuseki-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-geosparql/jena-geosparql.iml" filepath="$PROJECT_DIR$/jena-geosparql/jena-geosparql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-integration-tests/jena-integration-tests.iml" filepath="$PROJECT_DIR$/jena-integration-tests/jena-integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-iri/jena-iri.iml" filepath="$PROJECT_DIR$/jena-iri/jena-iri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc.iml" filepath="$PROJECT_DIR$/jena-jdbc/jena-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-core/jena-jdbc-core.iml" filepath="$PROJECT_DIR$/jena-jdbc/jena-jdbc-core/jena-jdbc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-bundle/jena-jdbc-driver-bundle.iml" filepath="$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-bundle/jena-jdbc-driver-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-mem/jena-jdbc-driver-mem.iml" filepath="$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-mem/jena-jdbc-driver-mem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-remote/jena-jdbc-driver-remote.iml" filepath="$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-remote/jena-jdbc-driver-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-tdb/jena-jdbc-driver-tdb.iml" filepath="$PROJECT_DIR$/jena-jdbc/jena-jdbc-driver-tdb/jena-jdbc-driver-tdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-jena-osgi/jena-osgi/jena-osgi.iml" filepath="$PROJECT_DIR$/apache-jena-osgi/jena-osgi/jena-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-jena-osgi/jena-osgi-features/jena-osgi-features.iml" filepath="$PROJECT_DIR$/apache-jena-osgi/jena-osgi-features/jena-osgi-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-permissions/jena-permissions.iml" filepath="$PROJECT_DIR$/jena-permissions/jena-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-extras/jena-querybuilder/jena-querybuilder.iml" filepath="$PROJECT_DIR$/jena-extras/jena-querybuilder/jena-querybuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-rdfconnection/jena-rdfconnection.iml" filepath="$PROJECT_DIR$/jena-rdfconnection/jena-rdfconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-shacl/jena-shacl.iml" filepath="$PROJECT_DIR$/jena-shacl/jena-shacl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-shaded-guava/jena-shaded-guava.iml" filepath="$PROJECT_DIR$/jena-shaded-guava/jena-shaded-guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-tdb/jena-tdb.iml" filepath="$PROJECT_DIR$/jena-tdb/jena-tdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-db/jena-tdb2/jena-tdb2.iml" filepath="$PROJECT_DIR$/jena-db/jena-tdb2/jena-tdb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-text/jena-text.iml" filepath="$PROJECT_DIR$/jena-text/jena-text.iml" />
+    </modules>
+  </component>
+</project>

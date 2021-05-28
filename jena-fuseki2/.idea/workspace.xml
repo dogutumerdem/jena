@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95200d41-88e7-4a0a-9d1a-1bb640b33ab5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/jena-fuseki-access/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki-access/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jena-fuseki-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jena-fuseki-geosparql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki-geosparql/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jena-fuseki-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki-main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jena-fuseki-webapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jena-fuseki-webapp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +19,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
-    <option name="autoscrollFromSource" value="true" />
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -41,6 +36,7 @@
     <configuration name="geo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.apache.jena.fuseki.geosparql.Main" />
       <module name="jena-fuseki-geosparql" />
+      <option name="PROGRAM_PARAMETERS" value="-t &quot;D:\Programs\JENA\apache-jena-4.0.0\ds&quot; -p 3040" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,6 +71,26 @@
           <url>file://$PROJECT_DIR$/jena-fuseki-geosparql/src/main/java/org/apache/jena/fuseki/geosparql/Main.java</url>
           <line>42</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-geosparql/4.1.0-SNAPSHOT/jena-geosparql-4.1.0-20210527.075007-22-sources.jar!/org/apache/jena/geosparql/configuration/GeoSPARQLOperations.java</url>
+          <line>507</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-geosparql/4.1.0-SNAPSHOT/jena-geosparql-4.1.0-20210527.075007-22-sources.jar!/org/apache/jena/geosparql/spatial/SpatialIndex.java</url>
+          <line>365</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-geosparql/4.1.0-SNAPSHOT/jena-geosparql-4.1.0-20210527.075007-22-sources.jar!/org/apache/jena/geosparql/configuration/ModeSRS.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-geosparql/4.1.0-SNAPSHOT/jena-geosparql-4.1.0-20210527.075007-22-sources.jar!/org/apache/jena/geosparql/configuration/ModeSRS.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

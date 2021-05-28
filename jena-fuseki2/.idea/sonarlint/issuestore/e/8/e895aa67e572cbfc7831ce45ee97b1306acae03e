@@ -1,0 +1,38 @@
+
+V	java:S110G"<This class has 7 parents which is greater than 5 authorized.(˘Àœ˘ˇˇˇˇ
+Z
+java:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(¿≥ç ¯ˇˇˇˇ
+U
+java:S1155‹">Use isEmpty() to check whether the collection is empty or not.(¿¬À‡
+U
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(¶É◊µ
+[
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(√ä·ê
+l
+java:S1450y"VRemove the "useTDB2" field and declare it as a local variable in the relevant methods.(æ’ˇú
+V	java:S125e"<This block of commented-out lines of code should be removed.(‡•ˆΩˇˇˇˇˇ
+`
+java:S1124h"EReorder the modifiers to comply with the Java Language Specification.(¿÷ﬁƒ¯ˇˇˇˇ
+t
+java:S1171p"YMove the contents of this initializer to a standard constructor or to field initializers.(“Ã‚ñ¯ˇˇˇˇ
+X
+java:S1854á"<Remove this useless assignment to local variable "pathname".(£îÎƒ˝ˇˇˇˇ
+X
+java:S1854â"<Remove this useless assignment to local variable "pathname".(ó≥˚ö˚ˇˇˇˇ
+L
+java:S1854∂"6Remove this useless assignment to local variable "ds".(ˇâÊM
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 79 to the 15 allowed.(Ìõµ‘
+K
+java:S6212æ"/Declare this local variable with "var" instead.(ŒÅ÷˛ˇˇˇˇ
+K
+java:S6212¬"/Declare this local variable with "var" instead.(ûæÑÎ¸ˇˇˇˇ
+F
+java:S6212å"/Declare this local variable with "var" instead.(¯ö”Õ
+E
+java:S6212∂"/Declare this local variable with "var" instead.(ˇâÊM
+W	java:S125∑"<This block of commented-out lines of code should be removed.(ä≠øí¯ˇˇˇˇ
+I
+java:S1481á"-Remove this unused "pathname" local variable.(£îÎƒ˝ˇˇˇˇ
+=
+java:S1481∂"'Remove this unused "ds" local variable.(ˇâÊM
