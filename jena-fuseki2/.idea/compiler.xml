@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jena-fuseki-main" />
+        <module name="jena-fuseki-geosparql" />
+        <module name="jena-fuseki-server" />
+        <module name="jena-fuseki-core" />
+        <module name="jena-fuseki-access" />
+        <module name="jena-fuseki-fulljar" />
+        <module name="jena-fuseki-war" />
+        <module name="jena-fuseki-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="apache-jena-fuseki" target="1.7" />
+      <module name="jena-fuseki" target="1.7" />
+      <module name="jena-fuseki-access" target="11" />
+      <module name="jena-fuseki-core" target="11" />
+      <module name="jena-fuseki-docker" target="1.7" />
+      <module name="jena-fuseki-fulljar" target="1.7" />
+      <module name="jena-fuseki-geosparql" target="11" />
+      <module name="jena-fuseki-main" target="11" />
+      <module name="jena-fuseki-server" target="1.7" />
+      <module name="jena-fuseki-war" target="1.7" />
+      <module name="jena-fuseki-webapp" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

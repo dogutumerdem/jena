@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-jena-fuseki/apache-jena-fuseki.iml" filepath="$PROJECT_DIR$/apache-jena-fuseki/apache-jena-fuseki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki.iml" filepath="$PROJECT_DIR$/jena-fuseki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-access/jena-fuseki-access.iml" filepath="$PROJECT_DIR$/jena-fuseki-access/jena-fuseki-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-core/jena-fuseki-core.iml" filepath="$PROJECT_DIR$/jena-fuseki-core/jena-fuseki-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-docker/jena-fuseki-docker.iml" filepath="$PROJECT_DIR$/jena-fuseki-docker/jena-fuseki-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-fulljar/jena-fuseki-fulljar.iml" filepath="$PROJECT_DIR$/jena-fuseki-fulljar/jena-fuseki-fulljar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-geosparql/jena-fuseki-geosparql.iml" filepath="$PROJECT_DIR$/jena-fuseki-geosparql/jena-fuseki-geosparql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-main/jena-fuseki-main.iml" filepath="$PROJECT_DIR$/jena-fuseki-main/jena-fuseki-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-server/jena-fuseki-server.iml" filepath="$PROJECT_DIR$/jena-fuseki-server/jena-fuseki-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-war/jena-fuseki-war.iml" filepath="$PROJECT_DIR$/jena-fuseki-war/jena-fuseki-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jena-fuseki-webapp/jena-fuseki-webapp.iml" filepath="$PROJECT_DIR$/jena-fuseki-webapp/jena-fuseki-webapp.iml" />
+    </modules>
+  </component>
+</project>

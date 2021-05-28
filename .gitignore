@@ -19,10 +19,10 @@ maven-eclipse.xml
 .externalToolBuilders/
 
 # Idea IntelliJ
-*.ipr
-*.iws
-*.iml
-.idea/
+# *.ipr
+# *.iws
+# *.iml
+# .idea/
 
 # Caches
 .scala_dependencies
